@@ -1,0 +1,5 @@
+/root/DSO_project/petshop-app/src/main/java/com/example/petshop/PetshopApplication.java
+/root/DSO_project/petshop-app/src/main/java/com/example/petshop/controller/PetController.java
+/root/DSO_project/petshop-app/src/main/java/com/example/petshop/model/Pet.java
+/root/DSO_project/petshop-app/src/main/java/com/example/petshop/repository/PetRepository.java
+/root/DSO_project/petshop-app/src/main/java/com/example/petshop/service/PetService.java

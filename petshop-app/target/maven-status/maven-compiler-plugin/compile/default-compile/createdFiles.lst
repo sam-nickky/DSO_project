@@ -1,0 +1,5 @@
+com/example/petshop/repository/PetRepository.class
+com/example/petshop/model/Pet.class
+com/example/petshop/service/PetService.class
+com/example/petshop/controller/PetController.class
+com/example/petshop/PetshopApplication.class
